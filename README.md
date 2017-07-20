@@ -1,2 +1,0 @@
-# guoqu
-qingchun
